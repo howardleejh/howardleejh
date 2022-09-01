@@ -9,7 +9,7 @@
 <br/>  
 
 ## About Me 
-<div align="center">I am a Fullstack Blockchain Developer that works with Solidity and Hardhat on any of the EVM compatible chains. I create smart contracts and develop frontend interfaces with React/Gatsby. I also have experience developing backend with NodeJS and ExpressJS. My main skillsets revolve around the MERN stack.</div>
+<div align="center">I'm a Fullstack Blockchain Developer who specializes in building decentralized applications that interact with EVM compatible blockchains such as Ethereum and Polygon. I have experience in building single page apps and progressive web apps that are responsive and support cross platforms.</div>
 
 <br />
 
