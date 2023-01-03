@@ -9,7 +9,7 @@
 <br/>  
 
 ## About Me 
-<div align="center">I'm a Fullstack Blockchain Developer who builds decentralized applications that interact with EVM compatible blockchains such as Ethereum and Polygon. I have experience in building single page apps and progressive web apps that are responsive and support cross platforms with blockchain interactions via digital crypto wallets such as Metamask and WalletConnect.</div>
+<div align="center">I'm a Fullstack MERN and Solidity Developer who builds decentralized applications that interact with EVM compatible blockchains such as Ethereum and Polygon. I have experience in building single page apps and progressive web apps that are responsive and support cross platforms with blockchain interactions via digital crypto wallets such as Metamask and WalletConnect.</div>
 
 <br />
 
