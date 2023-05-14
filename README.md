@@ -4,7 +4,7 @@
 
 <br />
 
-### <div align="center">Hi I'm Howard, 👨‍💻 currently open to opportunities! 🚀</div>  
+### <div align="center">Hi I'm Howard, 👨‍💻 Integration Engineer at Maverick Protocol! 🚀</div>  
 
 <br/>
 
