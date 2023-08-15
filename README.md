@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Integration Engineer @ Maverick Protocol<br>🌱 I’m currently learning WebAssembly and Yul<br>💬 Ask me about anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
+🔭 Integration Engineer @ Maverick Protocol<br>🌱 I’m currently learning WebAssembly and Yul<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
 
 
 ## 🌐 Socials:
