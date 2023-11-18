@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software Engineer @ [BAKE](https://www.bake.io)<br>🌱 I’m currently learning WebAssembly and Yul<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
+🔭 I’m currently learning WebAssembly and Yul<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
 
 
 ## 🌐 Socials:
