@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### Frontend Dev @ Headquarters (HQ.xyz)
-🔭 I’m currently learning WebAssembly and Yul<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
+🔭 I’m currently building the [Headquarters App](https://app.hq.xyz)<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/howardleejh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0x_syferr) 
