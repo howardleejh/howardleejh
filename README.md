@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-### Frontend Dev @ Headquarters (HQ.xyz)
-🔭 I’m currently building the [Headquarters App](https://app.hq.xyz)<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
+### Frontend Dev looking for new opportunities
+🔭 I’m currently looking for a new environment!<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/howardleejh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vault2howard) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x_syferr) 
@@ -19,10 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=howardleejh&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=howardleejh&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
