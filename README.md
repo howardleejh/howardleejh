@@ -3,7 +3,9 @@
 ### Frontend Dev looking for new opportunities
 🔭 I’m currently looking for a new environment!<br>💬 Ask me anything about Web3 or Blockchain<br>⚡ Fun fact: Games x Anime 24/7
 
-## 🌐 Socials:
+#### Want to reach out or know more about me? Find me at my <a href='https://howardlee.dev' target='_blank' rel="noopener noreferrer">howardlee.dev</a>!
+
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/howardleejh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vault2howard) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x_syferr) 
 
 # 💻 Tech Stack:
