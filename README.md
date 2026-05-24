@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a **Software Engineer at UOB Bank**<br>🌱 I’m currently learning about AI and MCPs<br>💬 Ask me anything about Web3, Smart Contracts or DeFi<br>⚡ Games x Anime 24/7<br><br>Want to reach out or know more about me? Find me at [howardlee.dev](https://www.howardlee.dev)
+🔭 I’m currently a **Software Engineer at Razer AI**<br>🌱 I’m currently learning about AI and MCPs<br>💬 Ask me anything about Web3, Smart Contracts or DeFi<br>⚡ Games x Anime 24/7<br><br>Want to reach out or know more about me? Find me at [howardlee.dev](https://www.howardlee.dev)
 
 
 ## 🌐 Socials:
